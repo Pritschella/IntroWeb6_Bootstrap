@@ -1,0 +1,23 @@
+/* Estilos generales */
+
+h1, h3, .row, body{
+    text-align: center;
+}
+
+#tituloBlog{
+    color: aqua;
+}
+
+footer{
+    text-align: center;
+    background-color: turquoise;
+}
+
+p{
+    text-align: justify;
+}
+
+footer a{
+    text-decoration: none;
+    color: black;
+}
